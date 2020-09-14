@@ -1,0 +1,10 @@
+- cat:
+    name: "PiPi"
+    color: "orange"
+    age: 2
+    sex: "female"
+- dog:
+    name: "Park"
+    color: "yellow"
+    age: 6
+    sex: "male"
